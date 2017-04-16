@@ -3,6 +3,7 @@
   "description": "angular 2 Bowser",
   "main": "./dist/bundles/ngxBowser.umd.min.js",
   "module": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
   "author": {
     "name": "Sam Lin",
     "email": "maxisam@gmail.com"
