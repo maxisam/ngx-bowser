@@ -1,4 +1,5 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 [![travis build](https://img.shields.io/travis/maxisam/ngx-bowser.svg?style=flat-square)](https://travis-ci.org/maxisam/ngx-bowser)
 [![npm](https://img.shields.io/npm/dt/ngx-bowser.svg?style=flat-square)](https://www.npmjs.com/package/ngx-bowser)
 [![GitHub release](https://img.shields.io/github/release/maxisam/ngx-bowser.svg?style=flat-square)](https://github.com/maxisam/ngx-bowser/releases)
@@ -40,7 +41,7 @@ It also comes with better type definition.
 
 in ngModule:
 ```
- imports: [ BowserModule],
+ imports: [BowserModule],
  providers: [BowserService],
 ```
 
