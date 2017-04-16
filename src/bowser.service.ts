@@ -38,4 +38,7 @@ export class BowserService {
     public get profile(): string {
         return `${this.bowserX.name}-${this.bowserX.version} (${this._WindowService.nativeWindow.navigator.userAgent})`;
     }
+    public get userAgent(): string {
+        return this._WindowService.nativeWindow.navigator.userAgent;
+    }
 }
