@@ -1,5 +1,34 @@
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
+[![travis build](https://img.shields.io/travis/maxisam/ngx-bowser.svg?style=flat-square)](https://travis-ci.org/maxisam/ngx-bowser)
+[![npm](https://img.shields.io/npm/dt/ngx-bowser.svg?style=flat-square)](https://www.npmjs.com/package/ngx-bowser)
+[![GitHub release](https://img.shields.io/github/release/maxisam/ngx-bowser.svg?style=flat-square)](https://github.com/maxisam/ngx-bowser/releases)
+[![npm](https://img.shields.io/npm/l/ngx-bowser.svg?style=flat-square)]()
+
 # ngx-bowser
 A wrap service for [bowser](https://github.com/ded/bowser)
+
+It works with angular version 2.0.0 and up
+
+## Dependencies
+
++ Angular >=2.0.0
++ [bowser](https://github.com/ded/bowser)
+
+## Install
+
+You can get it on npm.
+
+```
+npm install ngx-bowser --save
+```
+
+## Build project
+
+```
+1. npm i
+
+2. npm run build
+```
 
 ### why ?
 
